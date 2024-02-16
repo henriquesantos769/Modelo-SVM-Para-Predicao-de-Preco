@@ -1,4 +1,4 @@
-# Implementação do Modelo (SVM), Para Predição de Preço. 
+# Implementação do Modelo (SVM) Para Predição de Preço. 
 
 Este projeto tem como objetivo de resolver o seguinte problema de negócio:
 
